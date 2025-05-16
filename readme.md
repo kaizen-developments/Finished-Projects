@@ -1,0 +1,1 @@
+The purpose of this repository is to hold the showcases of my finished projects.
