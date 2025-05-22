@@ -1,1 +1,0 @@
-The purpose of this folder is to be moved to the showcases.
